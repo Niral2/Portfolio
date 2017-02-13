@@ -138,10 +138,10 @@
            <p class="copyright">Copyright 2016 - Niral Gandhi </p>
 		   <div class="footer-social">
     <span>Connect with me:</span>
-    <li><a href="http://www.facebook.com">
+    <li><a href="http://www.facebook.com" target="_blank">
         <img src='http://www.womenactionmedia.org/cms/assets/themes/crate/images/social/facebook.png' />
     </a></li>
-<li><a href="http://www.twitter.com">
+<li><a href="http://www.twitter.com" target="_blank">
     <img src='http://grfx.cstv.com/schools/wis/graphics/icon_twitter24.jpg' />
 </a></li>
 
